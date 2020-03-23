@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "301780515411",
+    "firebase_url": "https://babinsaproject.firebaseio.com",
+    "project_id": "babinsaproject",
+    "storage_bucket": "babinsaproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301780515411:android:66bc8bda14fb15d610a4a6",
+        "android_client_info": {
+          "package_name": "resty.project.babinsa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301780515411-qvqah93cupv3qrdf3udoaus36d6lheiv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "resty.project.babinsa",
+            "certificate_hash": "d6fa3829d888cb1348d68e023b9e99f832b2e3d1"
+          }
+        },
+        {
+          "client_id": "301780515411-04pr2iip0jocqtbovjkf36574igbssej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0yxNo99ZIzZ-FdYDjJ02UAVCuBZvxMDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301780515411-04pr2iip0jocqtbovjkf36574igbssej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
